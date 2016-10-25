@@ -1,0 +1,5 @@
+Windows XP:
+In order to run the Share Market Management System, run the project.exe file. 
+
+Windows Vista/7/8:
+Install DosBox in order to run the application. These veresions of Windows do not support this application directly.
